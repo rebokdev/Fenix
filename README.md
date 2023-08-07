@@ -10,5 +10,7 @@ Versions:
    - [] 0.1.x - Install Software - are being worked on
    - [] 0.2.x - Uninstall Software
    - [] 0.3.x - Runtimes
+
+Fenix is now astethix OS project, soon fenix will be published as an organisation repo
      
   
